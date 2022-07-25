@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+#binary and objective files
+**/bin/Debug/**
+**/bin/Release/**
+**/obj
+**/.vs
+*.dll
+*.pdb
